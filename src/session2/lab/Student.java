@@ -1,3 +1,5 @@
+package session2.lab;
+
 public class Student {
     private String studentName, collegeName;
     private int studentID;

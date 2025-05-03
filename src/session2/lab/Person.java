@@ -1,3 +1,4 @@
+package session2.lab;
 
 public class Person {
     String name = "Nikunj";

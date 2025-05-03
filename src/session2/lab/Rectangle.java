@@ -1,3 +1,5 @@
+package session2.lab;
+
 public class Rectangle {
     double height, width;
 

@@ -1,3 +1,5 @@
+package session2.lab;
+
 class Employee{
     protected int id, age;
     protected String name;
